@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f634ede4de7547f78a7353cf0cbcd02, type: 3}
+  m_Name: demo-prefab
+  m_EditorClassIdentifier: 
+  DemoBlockPrefab: {fileID: 4631721592034548412, guid: 9d33f20129191455bb445f77ff94777a, type: 3}
+  DemoCardPrefab: {fileID: 707572372563008603, guid: 2243c1fb0e71c914c9837caefb0b247e, type: 3}
+  DemoBuildingPrefab: {fileID: 2066670099645720909, guid: 7f4f5ae62c82641bfa0b99b59b4d2c89, type: 3}

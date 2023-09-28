@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85dac6f0d58e249cabd80ea796ce6c13, type: 3}
+  m_Name: demo-info
+  m_EditorClassIdentifier: 
+  Coin: 1000
+  TaxSequenceMeta: {fileID: 11400000, guid: 89fbde87cbc1b4e78bed65ea60863d19, type: 2}
+  EndTime: 300
+  DisasterSequenceMeta: {fileID: 11400000, guid: 94fca591f834e464c93642fbb0dae571, type: 2}

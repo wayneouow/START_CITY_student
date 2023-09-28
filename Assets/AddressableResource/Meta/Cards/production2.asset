@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f0d2a9ddb9e44fe58413dbc15011032, type: 3}
+  m_Name: production2
+  m_EditorClassIdentifier: 
+  Identity: production2
+  CardType: 1
+  Name: "\u6797\u767E\u8CA8"
+  NameKey: 
+  Desc: 
+  DescKey: 
+  ImageName: 
+  CardImage: {fileID: 21300000, guid: 69aa315c71e594643ad44afbe17494e8, type: 3}
+  ImageSize: {x: 151, y: 130}
+  GameImage:
+  - {fileID: 21300000, guid: 69aa315c71e594643ad44afbe17494e8, type: 3}
+  - {fileID: 21300000, guid: 69aa315c71e594643ad44afbe17494e8, type: 3}
+  - {fileID: 21300000, guid: 69aa315c71e594643ad44afbe17494e8, type: 3}
+  PrefabName: 
+  CardIndex: 0
+  DestroyedImage: {fileID: 21300000, guid: 688600a3e38064b42a83ad6d5cbf64ab, type: 3}
+  BasicProperties:
+  - HP: 100
+    BuildingDuration: 12
+    Cost: 100
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  - HP: 200
+    BuildingDuration: 14
+    Cost: 200
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  - HP: 300
+    BuildingDuration: 16
+    Cost: 300
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  ProductionProperties:
+  - CoinPerSec: 2
+    TotalVacancies: 10
+  - CoinPerSec: 10
+    TotalVacancies: 20
+  - CoinPerSec: 30
+    TotalVacancies: 30

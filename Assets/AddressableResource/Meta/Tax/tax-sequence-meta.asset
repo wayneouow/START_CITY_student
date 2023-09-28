@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8c5ab29bb5c44a18a3e3918e9dc4d96, type: 3}
+  m_Name: tax-sequence-meta
+  m_EditorClassIdentifier: 
+  TaxList:
+  - OccurrenceTime: 5
+    TaxAmount: 10
+  - OccurrenceTime: 60
+    TaxAmount: 30
+  - OccurrenceTime: 120
+    TaxAmount: 60
+  - OccurrenceTime: 180
+    TaxAmount: 200
+  - OccurrenceTime: 240
+    TaxAmount: 500

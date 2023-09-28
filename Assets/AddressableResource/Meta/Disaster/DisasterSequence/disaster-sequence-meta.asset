@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b09f97ca944b74a70a19c5755fb565f4, type: 3}
+  m_Name: disaster-sequence-meta
+  m_EditorClassIdentifier: 
+  DisasterGroupList:
+  - OccurrenceTime: 5
+    DisasterGroup: {fileID: 11400000, guid: 40bc572b5c8ec4c4ab343fac797b886c, type: 2}
+  - OccurrenceTime: 30
+    DisasterGroup: {fileID: 11400000, guid: 0bdbd63702538451188b75d443cb2f10, type: 2}
+  - OccurrenceTime: 60
+    DisasterGroup: {fileID: 11400000, guid: 76f40021039ae48ac932859881222805, type: 2}
+  - OccurrenceTime: 80
+    DisasterGroup: {fileID: 11400000, guid: 51a089f2195bc4129adbe29d91baf3c5, type: 2}
+  - OccurrenceTime: 100
+    DisasterGroup: {fileID: 11400000, guid: c2d26a22033d44276a4bc884615feedb, type: 2}
+  - OccurrenceTime: 120
+    DisasterGroup: {fileID: 11400000, guid: d3489373530844b979f4893414204999, type: 2}
+  - OccurrenceTime: 150
+    DisasterGroup: {fileID: 11400000, guid: 8017538451762486485b93a96b75f17b, type: 2}
+  - OccurrenceTime: 180
+    DisasterGroup: {fileID: 11400000, guid: 0722adf0e28b349aa9491406634dee8f, type: 2}
+  - OccurrenceTime: 200
+    DisasterGroup: {fileID: 11400000, guid: a98bccc90016742b5a69c3cafd7c4be4, type: 2}
+  - OccurrenceTime: 220
+    DisasterGroup: {fileID: 11400000, guid: 5e717336ba5a6494d85b04d8f3cb36e5, type: 2}
+  - OccurrenceTime: 250
+    DisasterGroup: {fileID: 11400000, guid: a98bccc90016742b5a69c3cafd7c4be4, type: 2}
+  - OccurrenceTime: 280
+    DisasterGroup: {fileID: 11400000, guid: 5bd8c3b7ea2ec47c4b4c2f21b8b8bcc7, type: 2}

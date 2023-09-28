@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbea91cd53e5d40b6bf9dd3ff640faf7, type: 3}
+  m_Name: hospital
+  m_EditorClassIdentifier: 
+  Identity: hospital
+  CardType: 3
+  Name: "\u91AB\u9662"
+  NameKey: 
+  Desc: "\u91AB\u9662\u6703\u81EA\u52D5\u6CBB\u7642\u5468\u906D3x3\u7BC4\u570D\u5167\u7684\u50B7\u60A3"
+  DescKey: 
+  ImageName: 
+  CardImage: {fileID: 21300000, guid: 377c1724f9ad6472fa421e4f9f2ece60, type: 3}
+  ImageSize: {x: 110, y: 139}
+  GameImage:
+  - {fileID: 21300000, guid: 377c1724f9ad6472fa421e4f9f2ece60, type: 3}
+  - {fileID: 21300000, guid: 377c1724f9ad6472fa421e4f9f2ece60, type: 3}
+  - {fileID: 21300000, guid: 377c1724f9ad6472fa421e4f9f2ece60, type: 3}
+  PrefabName: 
+  CardIndex: 0
+  DestroyedImage: {fileID: 21300000, guid: 2ee709f28871c44c8ad995e4410ec71e, type: 3}
+  BasicProperties:
+  - HP: 120
+    BuildingDuration: 20
+    Cost: 220
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  - HP: 220
+    BuildingDuration: 20
+    Cost: 320
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  - HP: 20
+    BuildingDuration: 20
+    Cost: 450
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  HospitalProperties:
+  - HealingPeoplePerSecond: 0.2
+  - HealingPeoplePerSecond: 0.4
+  - HealingPeoplePerSecond: 0.5

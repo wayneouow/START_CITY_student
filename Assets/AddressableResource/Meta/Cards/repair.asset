@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f95aa242e90c747d5a193f613410f64e, type: 3}
+  m_Name: repair
+  m_EditorClassIdentifier: 
+  Identity: repair
+  CardType: 2
+  Name: "\u4FEE\u7406"
+  NameKey: 
+  Desc: "\u53EF\u4EE5\u6062\u5FA9\u5EFA\u7BC9\u7269 50 \u751F\u547D\u503C"
+  DescKey: 
+  ImageName: 
+  CardImage: {fileID: 21300000, guid: 7c472bcce4c7041e3992e14d352cec26, type: 3}
+  ImageSize: {x: 0, y: 0}
+  GameImage: []
+  PrefabName: 
+  CardIndex: 0
+  DestroyedImage: {fileID: 0}
+  BasicProperties:
+  - HP: 50
+    BuildingDuration: 0
+    Cost: 50
+    RiskOfDisaster: 0
+    RiskOfLocation: 0
+  - HP: 0
+    BuildingDuration: 0
+    Cost: 0
+    RiskOfDisaster: 0
+    RiskOfLocation: 0
+  - HP: 0
+    BuildingDuration: 0
+    Cost: 0
+    RiskOfDisaster: 0
+    RiskOfLocation: 0
+  FunctionCardType: 0
+  FunctionalCardProperties:
+    DamageReductionPercentage: 0

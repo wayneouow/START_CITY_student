@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6817197a3fc8c4e2ea83c37bed27b7b5, type: 3}
+  m_Name: building5
+  m_EditorClassIdentifier: 
+  Identity: building5
+  CardType: 0
+  Name: "\u7406\u5B78\u5927\u6A13"
+  NameKey: 
+  Desc: 
+  DescKey: 
+  ImageName: 
+  CardImage: {fileID: 21300000, guid: fe83700e1443d4c8b8651b6d875aefd1, type: 3}
+  ImageSize: {x: 133, y: 146}
+  GameImage:
+  - {fileID: 21300000, guid: fe83700e1443d4c8b8651b6d875aefd1, type: 3}
+  - {fileID: 21300000, guid: fe83700e1443d4c8b8651b6d875aefd1, type: 3}
+  - {fileID: 21300000, guid: fe83700e1443d4c8b8651b6d875aefd1, type: 3}
+  PrefabName: 
+  CardIndex: 0
+  DestroyedImage: {fileID: 21300000, guid: 5b595ccffeea84d129607b6d294e0058, type: 3}
+  BasicProperties:
+  - HP: 100
+    BuildingDuration: 20
+    Cost: 200
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  - HP: 200
+    BuildingDuration: 21
+    Cost: 300
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  - HP: 300
+    BuildingDuration: 22
+    Cost: 400
+    RiskOfDisaster: 1
+    RiskOfLocation: 1
+  BuildingProperties:
+  - PeoplePerSec: 0.1
+    TotalPeople: 10
+  - PeoplePerSec: 10
+    TotalPeople: 20
+  - PeoplePerSec: 30
+    TotalPeople: 30

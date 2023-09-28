@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55ef42f726d15410fab692845b40a753, type: 3}
+  m_Name: disaster-group-2x2in4x4-d30-4
+  m_EditorClassIdentifier: 
+  DisasterList:
+  - {fileID: 11400000, guid: 11f40dd84d14f42829ef4e54e3107c72, type: 2}
+  - {fileID: 11400000, guid: 5bf3036c7ab33415f9c0e9f1b2ae3749, type: 2}
+  - {fileID: 11400000, guid: 6038f4fa9994b4907b51b53d15e27683, type: 2}
+  - {fileID: 11400000, guid: b6301ca5283154678b2a8b261c5f1463, type: 2}
